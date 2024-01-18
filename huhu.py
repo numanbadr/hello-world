@@ -1,1 +1,1 @@
-pint("world")
+print("world")
